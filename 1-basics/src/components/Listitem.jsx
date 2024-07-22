@@ -1,4 +1,4 @@
-//import Pikachu from '../assets/Pikachu.jpg';
+
 
 export const Listitem= ({ListItem, fileSrc, id})=>{
     return(
