@@ -1,4 +1,16 @@
 main {
   flex: 1;
   display: flex;
+  background-color: brown;
 }
+h1 {
+text-align: center;
+}
+.btn{
+  size-adjust: 
+}
+
+body {
+  text-align: center;
+}
+
